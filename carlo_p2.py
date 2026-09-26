@@ -20,7 +20,7 @@ for i in range(Stotal):
         print("Status: Very Good")
     elif averages >= 75:
         print("Status: Passed")
-else:
+    else:
         print("Status: Failed")
 
     print()
